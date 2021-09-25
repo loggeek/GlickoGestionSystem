@@ -1,0 +1,45 @@
+# Language file
+# Avoid special characters!
+
+title = Glicko Gestion System
+
+pendingGames = % game(s) pending.
+noGameToUpdate = There is no game to update!
+aysToUpdate = Do you really want to update % game(s)?
+aysToLoad = Are you sure to load these ratings? \nThe previous contents will be overwritten!
+inputPlayerName = Please input a player name!
+invalidRating = Player rating given is invalid! \nIt will be initialized with its default value.
+inexistentPlayer = The selected player doesn't exist!
+aysToRemove = Are you sure you want to remove % from the database? \nThis action cannot be undone!
+inexistentOpponent = At least one of the selected players doesn't exist!
+autoGame = A player cannot face himself!
+aysToExit = Are you sure you want to exit? \nAll unsaved data will be lost!
+playerN = Player %
+newMatchup = New Matchup
+newPlayer = New Player
+removePlayer = Remove Player
+updateRatings = Update Ratings
+sort = Sort
+win = Win
+draw = Draw
+loss = Loss
+saveRatings = Save Ratings
+loadRatings = Load Ratings
+error = Error
+info = Info
+warning = Warning
+question = Question
+yes = Yes
+no = No
+cancel = Cancel
+playerName = Player Name
+playerRating = Player Rating
+order = Order
+sortBy = Sort by
+ascending = Ascending
+descending = Descending
+name = Name
+rating = Rating
+deviation = Deviation
+volatility = Volatility
+games = Games

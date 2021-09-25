@@ -1,0 +1,45 @@
+# Language file
+# Avoid special characters!
+
+title = Systeme de gestion de classements Glicko
+
+pendingGames = % partie(s) en attente.
+noGameToUpdate = Il n'y a aucune partie a mettre a jour !
+aysToUpdate = Voulez-vous vraiment mettre a jour % partie(s) ?
+aysToLoad = Etes-vous sur de vouloir charger ces classements ? \nLes contenus precedents vont etre ecrases !
+inputPlayerName = Merci d'entrer un nom pour le joueur !
+invalidRating = Le classement indique est invalide ! \nIl va etre initialise avec sa valeur par defaut.
+inexistentPlayer = Le joueur indique n'existe pas !
+aysToRemove = Etes-vous sur de retirer % de la base de donnees ? \nVous ne pouvez pas annuler cette action !
+inexistentOpponent = Au moins un des joueurs indiques n'existe pas !
+autoGame = Un joueur ne peut pas jouer contre lui-meme !
+aysToExit = Etes-vous sur de quitter ? \nTous les contenus non sauvegardes seront perdus !
+playerN = Joueur %
+newMatchup = Nouvelle partie
+newPlayer = Nouveau joueur
+removePlayer = Retirer joueur
+updateRatings = Mettre a jour
+sort = Trier
+win = Victoire
+draw = Nulle
+loss = Defaite
+saveRatings = Sauvegarder
+loadRatings = Charger
+error = Erreur
+info = Information
+warning = Avertissement
+question = Question
+yes = Oui
+no = Non
+cancel = Annuler
+playerName = Nom du joueur
+playerRating = Classement du joueur
+order = Ordre
+sortBy = Trier par
+ascending = Ascendant
+descending = Descendant
+name = Nom
+rating = Classement
+deviation = Deviation
+volatility = Volatilite
+games = Parties
